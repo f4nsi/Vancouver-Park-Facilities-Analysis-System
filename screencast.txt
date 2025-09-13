@@ -1,0 +1,6 @@
+link: https://northeastern-my.sharepoint.com/:v:/g/personal/fan_xiy_northeastern_edu/EWYQBIGCyfpOnVb9yxasfVkBVHkg86PMIP9NwL5lyq32rA?e=LPU0rh
+Name: Xiyu Fan
+Project Title: The Park and Park Facility Management and Analysis Program
+Course Name: CS 5001
+Section Number: 40374
+Breif Discription: My project aims at managing the park and park facility data, finding parks with certain conditions on a map, and analyzing the relationship between a neighbourhood and park facilities inside it. It’s a program that mainly designed for urban planners or urban planning gamers to assess the current development of park facilities in different parks and neighbourhood areas and to decide how to maintain these facilities to meet the public’s recreation needs, while its filter function can also be helpful for the general public to decide which park they would like to go or which neighbourhood is the best to move into depending on their outdoor leisure needs.
